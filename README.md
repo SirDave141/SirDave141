@@ -59,13 +59,6 @@
 ![Git](https://img.shields.io/badge/-Git-282828?style=for-the-badge&logo=git&logoColor=F05032)
 ![Gitea](https://img.shields.io/badge/-Gitea-282828?style=for-the-badge&logo=gitea&logoColor=609926) ![GitHub](https://img.shields.io/badge/-Github-282828?style=for-the-badge&logo=github&logoColor=fbf1c7)
 
-### Tools 🛠
-
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
 ## GitHub Stats 📊
 
 ![Status](https://github-readme-stats.vercel.app/api?username=SirDave141&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>

@@ -44,10 +44,19 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-282828?style=for-the-badge&logo=inkscape&logoColor=fbf1c7)
 ![Krita](https://img.shields.io/badge/-Krita-282828?style=for-the-badge&logo=krita&logoColor=3BABFF)
 
+### Video 🎥
+
+![Vegas](https://img.shields.io/badge/-Vegas-282828?style=for-the-badge&logo=vegas&logoColor=fbf1c7)
+
 ### Web Hosting and Servers 🌐
 
 ![Vultr](https://img.shields.io/badge/-Vultr-282828?style=for-the-badge&logo=vultr&logoColor=007BFC)
 ![Nginx](https://img.shields.io/badge/-NGINX-282828?style=for-the-badge&logo=nginx&logoColor=009639)
+
+### Game Engines 🎮
+
+![Godot Engine](https://img.shields.io/badge/-Godot_Engine-282828?style=for-the-badge&logo=godot%20engine&logoColor=478CBF)
+![Unity](https://img.shields.io/badge/-Unity-282828?style=for-the-badge&logo=unity&logoColor=fbf1c7)
 
 ### Package Managers 📦
 

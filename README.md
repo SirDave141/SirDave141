@@ -66,7 +66,8 @@
 ### Version Control 📜
 
 ![Git](https://img.shields.io/badge/-Git-282828?style=for-the-badge&logo=git&logoColor=F05032)
-![Gitea](https://img.shields.io/badge/-Gitea-282828?style=for-the-badge&logo=gitea&logoColor=609926) ![GitHub](https://img.shields.io/badge/-Github-282828?style=for-the-badge&logo=github&logoColor=fbf1c7)
+![Gitea](https://img.shields.io/badge/-Gitea-282828?style=for-the-badge&logo=gitea&logoColor=609926)
+![GitHub](https://img.shields.io/badge/-Github-282828?style=for-the-badge&logo=github&logoColor=fbf1c7)
 
 ## GitHub Stats 📊
 

@@ -16,7 +16,7 @@
 | **iGPU** | Intel UHD Graphics 620 |
 | **GPU** | NVIDIA MX150; 2GB VRAM |
 | **RAM** | 32GB DDR4 |
-| **Storage** | Up to 4TB; SSDs + HDDs |
+| **Storage** | Up to 4TB; 3 SSDs + 2 HDDs |
 
 ## Tech Stack 💻
 

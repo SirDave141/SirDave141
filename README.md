@@ -1,4 +1,22 @@
-<h1 align="center">Hey There 👋, I'm David a.k.a. SirDave</h1>
+<h1 align="center">Hey There 👋, I'm David <i>a.k.a.</i> SirDave</h1> 
+
+## About Me
+
+|[/uses](https://uses.tech "A website collection of personal pages with who uses what.")||
+| :-: | - |
+|**Editor**|​![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282828?style=for-the-badge "Visual Studio Code") ​​![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-fbf1c7?style=for-the-badge "Visual Studio")​ ![NeoVim](https://img.shields.io/badge/-NeoVim-282828?style=for-the-badge&logo=neovim&logoColor=57A143 "NeoVim")​|
+|**Browser**|A long time consumer of: ​![Firefox](https://img.shields.io/badge/-Firefox-282828?style=for-the-badge&logo=firefox%20browser&logoColor=FF7139 "Firefox")<br />Recently: ![Floorp](https://img.shields.io/badge/-Floorp-282828?style=for-the-badge "Floorp") |
+|**Operating System**|​![Windows 10](https://img.shields.io/badge/-Windows%2010-282828?style=for-the-badge "Windows 10")​​ ![Manjaro](https://img.shields.io/badge/-Manjaro-fbf1c7?style=for-the-badge&logo=manjaro&logoColor=35BF5C "Manjaro") ​![Parrot OS](https://img.shields.io/badge/-Parrot_OS-282828?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED "Parrot OS")​|
+
+### Workstation 🖱
+
+| Acer Aspire 5  *(A515-51G-55X7)* ||
+| :-: | - |
+| **CPU** | Intel Core I5-8250U |
+| **iGPU** | Intel UHD Graphics 620 |
+| **GPU** | NVIDIA MX150; 2GB VRAM |
+| **RAM** | 32GB DDR4 |
+| **Storage** | Up to 4TB; SSDs + HDDs |
 
 ## Tech Stack 💻
 

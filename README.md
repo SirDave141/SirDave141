@@ -1,98 +1,46 @@
-<h1 align="center">Hey There 👋, I'm David <i>a.k.a.</i> SirDave</h1> 
+# Hey There 👋, I'm SirDave
 
-## About Me
+## Welcome To My GitHub Profile! 🌟
 
-|[/uses](https://uses.tech "A website collection of personal pages with who uses what.")||
+### About Me
+
+|[/uses](https://uses.tech "A collection of websites, which describe what technology people use.")||
+| :-: | :-: |
+|**Editor**| ![Neovim](https://img.shields.io/badge/NeoVim-3C3836?style=for-the-badge&logo=neovim&logoColor=FBF1C7&labelColor=427B58)​ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3C3836?style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3C3836?style=for-the-badge) ![VSCodium](https://img.shields.io/badge/VSCodium-3C3836?style=for-the-badge&logo=vscodium&logoColor=FBF1C7&labelColor=076678) |
+|**Browser**| ![Firefox](https://img.shields.io/badge/Firefox-3C3836?style=for-the-badge&logo=firefoxbrowser&logoColor=FBF1C7&labelColor=AF3A03) |
+|**Operating System**| ![Windows 10](https://img.shields.io/badge/Windows%2010-3C3836?style=for-the-badge)​​ ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-3C3836?style=for-the-badge&logo=archlinux&logoColor=FBF1C7&labelColor=076678) ![Endeavour OS](https://img.shields.io/badge/Endeavour%20OS-3C3836?style=for-the-badge&logo=endeavouros&logoColor=FBF1C7&labelColor=8F3F71) ​|
+
+#### Workstation 🖱
+
+| Acer Aspire 5  _(A515-51G)_ | Details |
 | :-: | - |
-|**Editor**|​![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282828?style=for-the-badge "Visual Studio Code") ​​![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-fbf1c7?style=for-the-badge "Visual Studio")​ ![NeoVim](https://img.shields.io/badge/-NeoVim-282828?style=for-the-badge&logo=neovim&logoColor=57A143 "NeoVim")​|
-|**Browser**|A long time consumer of: ​![Firefox](https://img.shields.io/badge/-Firefox-282828?style=for-the-badge&logo=firefox%20browser&logoColor=FF7139 "Firefox")<br />Recently: ![Floorp](https://img.shields.io/badge/-Floorp-282828?style=for-the-badge "Floorp") |
-|**Operating System**|​![Windows 10](https://img.shields.io/badge/-Windows%2010-282828?style=for-the-badge "Windows 10")​​ ![Manjaro](https://img.shields.io/badge/-Manjaro-fbf1c7?style=for-the-badge&logo=manjaro&logoColor=35BF5C "Manjaro") ​![Parrot OS](https://img.shields.io/badge/-Parrot_OS-282828?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED "Parrot OS")​|
-
-### Workstation 🖱
-
-| Acer Aspire 5  *(A515-51G-55X7)* ||
-| :-: | - |
-| **CPU** | Intel Core I5-8250U |
+| **CPU** | Intel Core i5-8250U |
 | **iGPU** | Intel UHD Graphics 620 |
-| **GPU** | NVIDIA MX150; 2GB VRAM |
-| **RAM** | 32GB DDR4 |
-| **Storage** | Up to 4TB; 3 SSDs + 2 HDDs |
+| **GPU** | NVIDIA GeForce MX150; 2GB VRAM |
+| **RAM** *(Upgraded)* | 32GB DDR4 |
+| **Storage** *(Upgraded)* | Up to 4TB; 3 SSDs + 2 HDDs |
 
-## Tech Stack 💻
+### Tech Stack 💻
 
-### Languages ⌨
+![C](https://img.shields.io/badge/c-3C3836?style=for-the-badge&logo=c&logoColor=FBF1C7&labelColor=076678) ![C++](https://img.shields.io/badge/c++-3C3836?style=for-the-badge&logo=cplusplus&logoColor=FBF1C7&labelColor=076678) ![CSS](https://img.shields.io/badge/CSS-3C3836?style=for-the-badge&logo=css3&logoColor=FBF1C7&labelColor=458588) ![HTML](https://img.shields.io/badge/HTML-3C3836?style=for-the-badge&logo=html5&logoColor=FBF1C7&labelColor=AF3A03) ![JavaScript](https://img.shields.io/badge/JavaScript-3C3836?style=for-the-badge&logo=javascript&logoColor=FBF1C7&labelColor=B57614) ![Markdown](https://img.shields.io/badge/Markdown-3C3836?style=for-the-badge&logo=markdown&logoColor=FBF1C7) ![Python](https://img.shields.io/badge/Python-3C3836?style=for-the-badge&logo=python&logoColor=FBF1C7&labelColor=427B58) ![TypeScript](https://img.shields.io/badge/TypeScript-3C3836?style=for-the-badge&logo=typescript&logoColor=FBF1C7&labelColor=458588) ![Rust](https://img.shields.io/badge/Rust-3C3836?style=for-the-badge&logo=rust&logoColor=FBF1C7&labelColor=504945)
+![jQuery](https://img.shields.io/badge/JQuery-3C3836?style=for-the-badge&logo=jquery&logoColor=FBF1C7&labelColor=076678) ![NodeJS](https://img.shields.io/badge/Node.js-3C3836?style=for-the-badge&logo=node.js&logoColor=FBF1C7&labelColor=79740E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3C3836?style=for-the-badge&logo=bootstrap&logoColor=FBF1C7&labelColor=8F3F71) ![Bulma](https://img.shields.io/badge/Bulma-3C3836?style=for-the-badge&logo=bulma&logoColor=FBF1C7&labelColor=689D6A) ![PostCSS](https://img.shields.io/badge/PostCSS-3C3836?style=for-the-badge&logo=postcss&logoColor=FBF1C7&labelColor=9D0006) ![SASS](https://img.shields.io/badge/SASS-3C3836?style=for-the-badge&logo=SASS&logoColor=FBF1C7&labelColor=B16286) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3C3836?style=for-the-badge&logo=tailwind-css&logoColor=FBF1C7&labelColor=458588)
+![SQLite](https://img.shields.io/badge/SQLite-3C3836?style=for-the-badge&logo=sqlite&logoColor=FBF1C7&labelColor=076678)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-3C3836?style=for-the-badge&logo=adobe%20photoshop&logoColor=FBF1C7&labelColor=458588) ![Aseprite](https://img.shields.io/badge/Aseprite-3C3836?style=for-the-badge&logo=Aseprite&logoColor=FBF1C7&labelColor=665C54) ![Blender](https://img.shields.io/badge/Blender-3C3836?style=for-the-badge&logo=blender&logoColor=FBF1C7&labelColor=D65D0E) ![Gimp](https://img.shields.io/badge/Gimp-3C3836?style=for-the-badge&logo=gimp&logoColor=FBF1C7&labelColor=504945) ![Inkscape](https://img.shields.io/badge/Inkscape-3C3836?style=for-the-badge&logo=inkscape&logoColor=FBF1C7&labelColor=7C6F64) ![Krita](https://img.shields.io/badge/Krita-3C3836?style=for-the-badge&logo=krita&logoColor=FBF1C7&labelColor=076678)
+![Vegas Pro](https://img.shields.io/badge/Vegas_Pro-3C3836?style=for-the-badge&logo=vegas&logoColor=FBF1C7&labelColor=504945)
+![Nginx](https://img.shields.io/badge/NGINX-3C3836?style=for-the-badge&logo=nginx&logoColor=FBF1C7&labelColor=427B58) ![Vultr](https://img.shields.io/badge/Vultr-3C3836?style=for-the-badge&logo=vultr&logoColor=FBF1C7&labelColor=076678)
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-3C3836?style=for-the-badge&logo=godot%20engine&logoColor=FBF1C7&labelColor=076678) ![Unity](https://img.shields.io/badge/Unity-3C3836?style=for-the-badge&logo=unity&logoColor=FBF1C7&labelColor=504945)
+![NPM](https://img.shields.io/badge/NPM-3C3836?style=for-the-badge&logo=npm&logoColor=FBF1C7&labelColor=CC241D) ![PNPM](https://img.shields.io/badge/PNPM-3C3836?style=for-the-badge&logo=pnpm&logoColor=FBF1C7&labelColor=B57614) ![Yarn](https://img.shields.io/badge/Yarn-3C3836?style=for-the-badge&logo=yarn&logoColor=FBF1C7&labelColor=458588)
+![Git](https://img.shields.io/badge/Git-3C3836?style=for-the-badge&logo=git&logoColor=FBF1C7&labelColor=AF3A03) ![Gitea](https://img.shields.io/badge/Gitea-3C3836?style=for-the-badge&logo=gitea&logoColor=FBF1C7&labelColor=427B58) ![GitHub](https://img.shields.io/badge/Github-3C3836?style=for-the-badge&logo=github&logoColor=FBF1C7&labelColor=504945)
 
-![C](https://img.shields.io/badge/c-282828?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-c++-282828?style=for-the-badge&logo=cplusplus&logoColor=00599c)
-![CSS3](https://img.shields.io/badge/-CSS3-282828?style=for-the-badge&logo=css3&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/-HTML-282828?style=for-the-badge&logo=css3&logoColor=E34F26)
-![Java](https://img.shields.io/badge/-Java-282828?style=for-the-badge&logo=openjdk&logoColor=fbf1c7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/-Kotlin-282828?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Markdown](https://img.shields.io/badge/-Markdown-282828?style=for-the-badge&logo=markdown&logoColor=fbf1c7)
-![PHP](https://img.shields.io/badge/-PHP-282828?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/-Python-282828?style=for-the-badge&logo=python&logoColor=3776AB)
-![Ruby](https://img.shields.io/badge/-Ruby-282828?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-282828?style=for-the-badge&logo=typescript&logoColor=3178C6)
+### GitHub Stats 📊
 
-### JavaScript Frameworks and Libraries 🛠
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-![jQuery](https://img.shields.io/badge/-JQuery-282828?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![NodeJS](https://img.shields.io/badge/-Node.js-282828?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Vue.js](https://img.shields.io/badge/-Vue.js-282828?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+[![Dashboard stats of @SirDave141](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102987395&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=102987395)
 
-### CSS Frameworks, Libraries, and Preprocessors 🎨
+![Profile Views](https://count.ayaya.beauty/get/@:SirDave141?theme=rule34)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-282828?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Bulma](https://img.shields.io/badge/-Bulma-282828?style=for-the-badge&logo=bulma&logoColor=00D1B2)
-![SASS](https://img.shields.io/badge/-SASS-282828?style=for-the-badge&logo=SASS&logoColor=CC6699)
-![PostCSS](https://img.shields.io/badge/-PostCSS-282828?style=for-the-badge&logo=postcss&logoColor=DD3A0A)
-
-### Databases 🗄
-
-![SQLite](https://img.shields.io/badge/-SQLite-282828?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### Design 🎨
-
-![Adobe](https://img.shields.io/badge/-Adobe-282828?style=for-the-badge&logo=adobe&logoColor=FF0000)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-282828?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
-![Aseprite](https://img.shields.io/badge/-Aseprite-282828?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
-![Blender](https://img.shields.io/badge/-Blender-282828?style=for-the-badge&logo=blender&logoColor=E87D0D)
-![Gimp](https://img.shields.io/badge/-Gimp-282828?style=for-the-badge&logo=gimp&logoColor=5C5543)
-![Inkscape](https://img.shields.io/badge/-Inkscape-282828?style=for-the-badge&logo=inkscape&logoColor=fbf1c7)
-![Krita](https://img.shields.io/badge/-Krita-282828?style=for-the-badge&logo=krita&logoColor=3BABFF)
-
-### Video 🎥
-
-![Vegas](https://img.shields.io/badge/-Vegas-282828?style=for-the-badge&logo=vegas&logoColor=fbf1c7)
-
-### Web Hosting and Servers 🌐
-
-![Vultr](https://img.shields.io/badge/-Vultr-282828?style=for-the-badge&logo=vultr&logoColor=007BFC)
-![Nginx](https://img.shields.io/badge/-NGINX-282828?style=for-the-badge&logo=nginx&logoColor=009639)
-
-### Game Engines 🎮
-
-![Godot Engine](https://img.shields.io/badge/-Godot_Engine-282828?style=for-the-badge&logo=godot%20engine&logoColor=478CBF)
-![Unity](https://img.shields.io/badge/-Unity-282828?style=for-the-badge&logo=unity&logoColor=fbf1c7)
-
-### Package Managers 📦
-
-![NPM](https://img.shields.io/badge/-NPM-282828?style=for-the-badge&logo=npm&logoColor=CB3837)
-![PNPM](https://img.shields.io/badge/-PNPM-282828?style=for-the-badge&logo=pnpm&logoColor=F69220)
-
-### Version Control 📜
-
-![Git](https://img.shields.io/badge/-Git-282828?style=for-the-badge&logo=git&logoColor=F05032)
-![Gitea](https://img.shields.io/badge/-Gitea-282828?style=for-the-badge&logo=gitea&logoColor=609926)
-![GitHub](https://img.shields.io/badge/-Github-282828?style=for-the-badge&logo=github&logoColor=fbf1c7)
-
-## GitHub Stats 📊
-
-![Status](https://github-readme-stats.vercel.app/api?username=SirDave141&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirDave141&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### Thank You for Visiting my GitHub Profile!
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=SirDave141&icon=7&color=4)](https://visitcount.itsvg.in)
+## Thank You for Visiting my GitHub Profile! 🤍

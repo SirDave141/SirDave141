@@ -6,9 +6,9 @@
 
 |[/uses](https://uses.tech "A collection of websites, which describe what technology people use.")||
 | :-: | :-: |
-|**Editor**| ![Neovim](https://img.shields.io/badge/NeoVim-3C3836?style=for-the-badge&logo=neovim&logoColor=FBF1C7&labelColor=427B58)​ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3C3836?style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3C3836?style=for-the-badge) ![VSCodium](https://img.shields.io/badge/VSCodium-3C3836?style=for-the-badge&logo=vscodium&logoColor=FBF1C7&labelColor=076678) |
+|**Editor**| ![Neovim](https://img.shields.io/badge/NeoVim-3C3836?style=for-the-badge&logo=neovim&logoColor=FBF1C7&labelColor=427B58)​ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3C3836?style=for-the-badge) ![VSCodium](https://img.shields.io/badge/VSCodium-3C3836?style=for-the-badge&logo=vscodium&logoColor=FBF1C7&labelColor=076678) |
 |**Browser**| ![Firefox](https://img.shields.io/badge/Firefox-3C3836?style=for-the-badge&logo=firefoxbrowser&logoColor=FBF1C7&labelColor=AF3A03) |
-|**Operating System**| ![Windows 10](https://img.shields.io/badge/Windows%2010-3C3836?style=for-the-badge)​​ ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-3C3836?style=for-the-badge&logo=archlinux&logoColor=FBF1C7&labelColor=076678) ![Endeavour OS](https://img.shields.io/badge/Endeavour%20OS-3C3836?style=for-the-badge&logo=endeavouros&logoColor=FBF1C7&labelColor=8F3F71) ​|
+|**Operating System**| ![Windows 10](https://img.shields.io/badge/Windows%2010-3C3836?style=for-the-badge)​​ ![Endeavour OS](https://img.shields.io/badge/Endeavour%20OS-3C3836?style=for-the-badge&logo=endeavouros&logoColor=FBF1C7&labelColor=8F3F71) ​|
 
 #### Workstation 🖱
 
